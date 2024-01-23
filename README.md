@@ -1,4 +1,5 @@
 The Sales Analytics Dashboard project using Tableau! This project is designed to offer comprehensive insights into key metrics and trends related to house sales. Leveraging the robust visualizations and data analysis capabilities of Tableau, this dashboard aims to assist real estate professionals, investors, and enthusiasts in making informed, data-driven decisions.
+
 Specific features:
 **Line Chart for Trends**: Visualize trends in house sales over time using a dynamic line chart. This chart enables users to identify fluctuations, seasonality, or long-term trends in the housing market.
 **Map Visualization**: Explore property locations using an interactive map. Easily identify high-performing regions or areas with specific characteristics. The map allows users to zoom in, pan, and click on individual properties for detailed information.
